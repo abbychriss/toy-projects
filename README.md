@@ -3,6 +3,7 @@ These are some of the small coding projects I played around with to practice pyt
 I made all of these for fun. They help me explore the different ways I can use python to display the behavior of physical systems and do numerical computations.
 
 I plotted a histogram of a normal gaussian distribution! In purple!
+
 ![histogram](https://user-images.githubusercontent.com/109223669/184136887-98a1afcc-6bb4-4251-a7f5-31142ce0aa47.png)
 
 Here is the plot I made of the trajectory of a free falling projectile:
