@@ -11,4 +11,5 @@ Here is the plot I made of the trajectory of a free falling projectile:
 ![projectile motion plot](https://user-images.githubusercontent.com/109223669/184137408-cfb9d473-12bc-4e5f-a7d2-a638ab3a9399.png)
 
 This is the plot of an the probability distribution of energy quanta on side A for two Einstein solids in thermal contact: 
+
 ![einstein solids plot](https://user-images.githubusercontent.com/109223669/184136607-9b31bcab-6aa8-4247-9806-9a982848f6a7.png)
